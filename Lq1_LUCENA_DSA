@@ -1,0 +1,9 @@
+let name = "Karylle Rose Lucena"
+let WhatYouWannaBecomeInYourLife = "Programmer"
+let Gender = "Female"
+let fbHandle = "karylle011505"
+
+console.log(name);
+console.log(WhatYouWannaBecomeInYourLife);
+console.log(Gender);
+console.log(fbHandle);
